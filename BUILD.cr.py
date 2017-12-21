@@ -34,6 +34,8 @@ cxx.library(
     ],
     excludes = [
       'celt/opus_custom_demo.c',
+      'celt/celt_encoder.c',
+      'celt/celt_decoder.c',
       'src/opus_compare.c',
       'src/opus_demo.c',
       'src/repacketizer_demo.c',
