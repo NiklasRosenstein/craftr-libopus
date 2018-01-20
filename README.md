@@ -1,4 +1,4 @@
-## craftr-libopus
+## @craftr/libopus
 
   [libopus]: http://opus-codec.org/downloads/
 

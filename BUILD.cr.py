@@ -4,7 +4,7 @@ import os
 import requests
 import tarfile
 import craftr, {path} from 'craftr'
-import cxx from 'craftr/lang/cxx'
+import cxx from '@craftr/cxx'
 
 source_url = craftr.options['opus.source_url']
 
